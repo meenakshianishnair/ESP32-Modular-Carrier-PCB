@@ -1,0 +1,7 @@
+Reference,Qty,Value,Footprint
+J1,1,J_LEFT,Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical
+J2,1,J_RIGHT,Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical
+J3,1,TOF SENSOR,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+J4,1,POWER INPUT,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+J5,1,OLED,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+J6,1,TOUCH SENSOR,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
